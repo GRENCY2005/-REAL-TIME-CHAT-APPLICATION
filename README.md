@@ -42,11 +42,11 @@ Use React.js to build components for:
 - HTML/CSS for styling and layout
 
 ### Deliverable:
-A styled, interactive, and multi-page e-learning platform UI that:
-- Shows a course list
-- Embeds videos
-- shows course progress
-
+A fully functional and responsive real-time chat application with:
+- Live message updates
+- Username joining
+- Chat history
+- Clean and modern UI
 
 ### OUTPUT 
 
