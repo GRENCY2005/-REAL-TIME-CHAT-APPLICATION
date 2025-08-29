@@ -1,55 +1,66 @@
-# -REAL-TIME-CHAT-APPLICATION
+# INTERACTIVE-QUIZ-APPLICATION
 
-Company Name  : CODETECH IT SOLUTIONS              
-Name          : Savaliya Grency Ashokbhai          
-Intern ID     : CT04DL217                          
-Domain        : Frontend Web Development           
-Duration      : 4 weeks                            
-Mentor        : Neela Santosh
 
-## DESCRIPTION
+ **Company Name**  : CODETECH IT SOLUTIONS
+ **Name**          : Savaliya Grency Ashokbhai          
+ **Intern ID**     : CT04DL217                          
+ **Domain**        : Frontend Web Development           
+ **Duration**      : 4 weeks                            
+ **Mentor**        : Neela Santosh                      
 
-###  Task Description
 
-The aim of this project is to build a Real-Time Chat Application using WebSockets and a front-end framework such as React.js. The application will allow multiple users to send and receive messages instantly in a shared chat room. The focus is on creating a smooth, fast, and responsive chatting experience with live message updates and message history.
+## DESCRIPTION 
+**Task Description:**
 
-### Core Features to Implement:
+Build a web-based quiz application using HTML, CSS, and JavaScript that allows users to answer multiple-choice questions and receive instant feedback on their answers. The app should be interactive, responsive, and provide a dynamic user experience.
 
-### User Join Feature:
-Users can enter their name to join the chat. Each user will be assigned a username displayed with their messages.
+**Core Features to Implement:**
 
-### Real-Time Messaging:
-Messages are sent and received instantly using WebSockets. As soon as a user sends a message, it should appear in the chat window for all users without refreshing the page.
+1. **Question Display:**
 
-### Message Display:
-Each message should show:
-- The sender's name
-- The message text
-- The time it was sent
+   * Dynamically load one question at a time from a set of pre-defined questions.
+   * Display the question text and 4 answer options.
 
-### Message History:
-Store recent chat messages locally or on the server so users can see the previous chat history when they join.
+2. **Answer Selection & Feedback:**
 
-### Frontend Framework:
-Use React.js to build components for:
-- Message list
-- Input field
-- Join chat screen
+   * Users select one answer.
+   * Instantly show whether the selected answer is correct or incorrect.
+   * Highlight the correct answer.
 
-### Technologies Used:
-- React.js for the frontend
-- WebSockets for real-time communication
-- HTML/CSS for styling and layout
+3. **Scoring System:**
 
-### Deliverable:
-A fully functional and responsive real-time chat application with:
-- Live message updates
-- Username joining
-- Chat history
-- Clean and modern UI
+   * Keep track of the user's score as they progress through the quiz.
+   * Update the score immediately after each answer.
 
-### OUTPUT 
+4. **Navigation:**
 
-![Image](https://github.com/user-attachments/assets/b86c3517-90b4-442c-a62a-96dc1f80be9d)
+   * "Next" button to go to the next question.
 
-![Image](https://github.com/user-attachments/assets/85fa0f91-b7b7-439f-a49b-2fc26d56c9bf)
+5. **Final Score Display:**
+
+   * At the end of the quiz, show the total score with a summary of correct answers.
+   * Option to restart the quiz.
+
+6. **Dynamic Question Loading:**
+
+   * Questions should be loaded dynamically from an array or external JSON file (simulating API behavior).
+
+**Technologies to Use:**
+
+* HTML for structure
+* CSS for styling and layout
+* JavaScript for logic and interactivity
+
+**Deliverable:**
+
+A fully functional and visually polished quiz web app that:
+* Loads questions dynamically
+* Allows user interaction
+* Provides real-time feedback
+* Displays and updates score
+
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/ac7dc383-d376-48b8-993b-e176c4d248e1)
+
+![Image](https://github.com/user-attachments/assets/0e1f6405-5d83-44e4-8fb0-7338ea466568)
