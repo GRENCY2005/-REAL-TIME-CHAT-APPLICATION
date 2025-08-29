@@ -1,66 +1,51 @@
-# INTERACTIVE-QUIZ-APPLICATION
+# E-LEARNING-PLATFORM-UI
 
+Company Name  : CODETECH IT SOLUTIONS              
+Name          : Savaliya Grency Ashokbhai          
+Intern ID     : CT04DL217                          
+Domain        : Frontend Web Development           
+Duration      : 4 weeks                            
+Mentor        : Neela Santosh
 
- **Company Name**  : CODETECH IT SOLUTIONS
- **Name**          : Savaliya Grency Ashokbhai          
- **Intern ID**     : CT04DL217                          
- **Domain**        : Frontend Web Development           
- **Duration**      : 4 weeks                            
- **Mentor**        : Neela Santosh                      
+## DESCRIPTION
 
+###  Task Description
 
-## DESCRIPTION 
-**Task Description:**
+The goal of this project is to design the front-end of an E-Learning Platform using HTML, CSS, and JavaScript.The platform should help users to view courses, track their progress, and watch video lessons.The website must be responsive and interactive, offering a smooth user experience.
 
-Build a web-based quiz application using HTML, CSS, and JavaScript that allows users to answer multiple-choice questions and receive instant feedback on their answers. The app should be interactive, responsive, and provide a dynamic user experience.
+### Core Features to Implement:
 
-**Core Features to Implement:**
+### Course Listing:
+The home page should show a list of available courses in a grid layout. Each course card must include:
+- A course title
+- An image thumbnail
+- A short description
 
-1. **Question Display:**
+### Progress Tracking:
+Users should see how much of the course they have completed. This can be shown using a progress bar. When users watch videos or move through lessons, their progress should update.
 
-   * Dynamically load one question at a time from a set of pre-defined questions.
-   * Display the question text and 4 answer options.
+### Video Embedding:
+- Add videos using <iframe> or <video> tag.
+- Include play/pause controls and proper video titles.
 
-2. **Answer Selection & Feedback:**
+### Multi-Page Navigation:
+The platform should include multiple pages such as:
+- Home (Course listing)
+- Course Details (with video)
 
-   * Users select one answer.
-   * Instantly show whether the selected answer is correct or incorrect.
-   * Highlight the correct answer.
+### Technologies Used:
+- HTML for content structure
+- CSS for styling and layout
+- JavaScript for dynamic interactions like updating progress
 
-3. **Scoring System:**
+### Deliverable:
+A styled, interactive, and multi-page e-learning platform UI that:
+- Shows a course list
+- Embeds videos
+- shows course progress
 
-   * Keep track of the user's score as they progress through the quiz.
-   * Update the score immediately after each answer.
+### OUTPUT
 
-4. **Navigation:**
+![Image](https://github.com/user-attachments/assets/9f131ac6-0a9a-4791-ad40-9db51e191dc5)
 
-   * "Next" button to go to the next question.
-
-5. **Final Score Display:**
-
-   * At the end of the quiz, show the total score with a summary of correct answers.
-   * Option to restart the quiz.
-
-6. **Dynamic Question Loading:**
-
-   * Questions should be loaded dynamically from an array or external JSON file (simulating API behavior).
-
-**Technologies to Use:**
-
-* HTML for structure
-* CSS for styling and layout
-* JavaScript for logic and interactivity
-
-**Deliverable:**
-
-A fully functional and visually polished quiz web app that:
-* Loads questions dynamically
-* Allows user interaction
-* Provides real-time feedback
-* Displays and updates score
-
-## OUTPUT
-
-![Image](https://github.com/user-attachments/assets/ac7dc383-d376-48b8-993b-e176c4d248e1)
-
-![Image](https://github.com/user-attachments/assets/0e1f6405-5d83-44e4-8fb0-7338ea466568)
+![Image](https://github.com/user-attachments/assets/c6f43925-55df-4ffe-b2da-b2374047435b)
